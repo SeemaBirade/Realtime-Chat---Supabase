@@ -46,7 +46,6 @@ This is a real-time chat application built using Supabase, Android, and Kotlin. 
    git clone https://github.com/SeemaBirade/Realtime-Chat-Supabase.git
    cd Realtime-Chat-Supabase
 
-
 bash
 echo "Testing CI/CD setup" >> README.md
 git add README.md
