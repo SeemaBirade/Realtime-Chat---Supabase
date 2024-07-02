@@ -85,10 +85,11 @@ and pull requests to the main branch.
 ### Step 5: Commit and Push
 
 - Commit the android-ci.yml file and push it to your GitHub repository.
-  **bash
+  ```sh
+  bash
   git add .github/workflows/android-ci.yml
   git commit -m "Add CI workflow for Android app on macOS"
-  git push origin main**
+  git push origin main
 
 ### Step 6: Verify the Workflow
 
