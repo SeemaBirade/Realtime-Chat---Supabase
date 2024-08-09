@@ -39,4 +39,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: sample-app.apk
-          path: /Users/seemabirade/AndroidStudioProjects/Realtime-Chat-Supabase/app/build/outputs/apk/debug/app-debug.apk
+          path: app/build/outputs/apk/debug/app-debug.apk
