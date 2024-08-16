@@ -34,6 +34,7 @@ class LoginActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         // Set login button click listener
+
         binding.buttonLogin.setOnClickListener {
             val email = binding.editTextEmail.text.toString()
             val password = binding.editTextPassword.text.toString()
